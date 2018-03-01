@@ -1,3 +1,5 @@
+package pl.javastart.config;
+
 public class MessagePrinter {
 
     private Producer producer;

@@ -1,3 +1,5 @@
+package pl.javastart.config;
+
 import java.io.IOException;
 
 public class Main {

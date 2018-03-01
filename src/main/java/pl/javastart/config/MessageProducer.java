@@ -1,3 +1,5 @@
+package pl.javastart.config;
+
 public class MessageProducer implements Producer {
 
     public  String getMessage(){
